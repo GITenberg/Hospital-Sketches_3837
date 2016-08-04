@@ -1,0 +1,39 @@
+_repo: Hospital-Sketches_3837
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, Louisa M. (Louisa May)
+    - Barnard, A. M.
+    - Alcott, L. M. (Louisa May)
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2003-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3837'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nurses -- United States -- Biography'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Hospitals'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Medical care'
+- !lcsh 'Military nursing -- United States -- History -- 19th century'
+- !lcsh 'Washington (D.C.) -- History -- 19th century'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Women'
+- !lcsh 'Georgetown (Washington, D.C.) -- History -- 19th century'
+- !lcsh 'Military hospitals -- Washington (D.C.) -- History -- 19th century'
+- !lcc 'E456'
+- !lcsh 'Alcott, Louisa May, 1832-1888 -- Career in nursing'
+- GITenberg
+title: Hospital Sketches
+url: http://www.gutenberg.org/ebooks/3837
